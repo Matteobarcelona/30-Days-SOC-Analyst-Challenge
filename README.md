@@ -14,14 +14,17 @@ Week 1:
 * Introduction to ELK
 * How to setup ELK
 * Ingesting Logs such as Sysmon
+  
 Week 2:
 * Introduction to brute force attack
 * How to setup ssh and rdp servers
 * Create alerts and dashboards
+  
 Week 3:
 * Introduction to command and control
 * How to setup your own C2 server (Mythic)
 * Attack our public server
+
 Week 4:
 * Introduction to ticketing system
 * How to setup and integrate a ticketing system
