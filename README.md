@@ -31,5 +31,5 @@ Week 4:
 
 This is the logical diagram created using the draw.io application. It's a great exercise for improving diagramming skills and serves as a representation of the network mapping planned for the coming days.
 
-<img src="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/30%20days%20SOC%20Analyst%20Challenge.drawio.png" alt="30 Days SOC Analyst Challenge Diagram" width="400" height="300" />
+<img src="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/30%20days%20SOC%20Analyst%20Challenge.drawio.png" alt="30 Days SOC Analyst Challenge Diagram" width="500" height="400" />
 
