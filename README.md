@@ -32,7 +32,9 @@ Week 4:
 
 ### Day 1 How to create a logical diagram:
 
-#### Objective: This is the logical diagram created using the draw.io application. It's a great exercise for improving diagramming skills and serves as a representation of the network mapping planned for the coming days.
+#### Objective: Getting the skills to create logical diagram. 
+
+This is the logical diagram created using the draw.io application. It's a great exercise for improving diagramming skills and serves as a representation of the network mapping planned for the coming days.
 
 <img src="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/30%20days%20SOC%20Analyst%20Challenge.drawio.png" alt="30 Days SOC Analyst Challenge Diagram" width="700" height="600" />
 
