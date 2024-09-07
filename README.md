@@ -32,7 +32,25 @@ Week 4:
 
 ### Day 1 How to create a logical diagram:
 
-This is the logical diagram created using the draw.io application. It's a great exercise for improving diagramming skills and serves as a representation of the network mapping planned for the coming days.
+#### Objective: This is the logical diagram created using the draw.io application. It's a great exercise for improving diagramming skills and serves as a representation of the network mapping planned for the coming days.
 
 <img src="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/30%20days%20SOC%20Analyst%20Challenge.drawio.png" alt="30 Days SOC Analyst Challenge Diagram" width="700" height="600" />
 
+### Day 2 ELK stack introduction:
+
+#### Objective: Better understanding of what the ELK stack is and the benefits.
+
+ELK => Elasticsearch, Logstash, Kibana. 
+
+Elasticsearch is a database to store logs (windows logs...) and retrieve the data. It is based on ES-QL => elastic search query language.
+
+Logstash is a pipeline that collect, transform or  filter, datas between applications and output it into Elasticsearch. It can collect data (telemetry) either with beats (file (logs), metrics, packet, winlog, audit, heartbeat (uptime))  or elastic agents (all types of data using 1 unified agent per host)
+
+Kibana is a web console to display the Elasticsearch datas. it helps for visualisation and creating dashboard. 
+
+Benefits of using ELK:
+* centralised logging
+* flexibility
+* visualisations
+* scalability to larger environment
+* ecosystem (many integrations)
