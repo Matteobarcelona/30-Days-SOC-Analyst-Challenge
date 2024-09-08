@@ -56,3 +56,7 @@ Benefits of using ELK:
 * visualisations
 * scalability to larger environment
 * ecosystem (many integrations)
+
+### Day 3 Elasticsearch Setup:
+
+#### Objective: Better understanding of what the ELK stack is and the benefits.
